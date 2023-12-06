@@ -21,7 +21,7 @@ To gain access to our private repositories, projects, and other community resour
 To become a member, simply follow these steps:
 
 1. Create a GitHub account if you don't already have one.
-2. Follow the link and fill in our member request form: [TechLeo Member Request Form](https://.com/)
+2. Follow the link and fill in our member request form: [TechLeo Member Request Form](https://forms.office.com/r/v06NdS3aQ8)
 
 Once your request has been approved, you'll have access to all of our private resources and can start contributing to our community.
 
