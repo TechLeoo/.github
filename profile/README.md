@@ -1,6 +1,6 @@
 # TechLeo
 
-## **Empowering Data Professionals Through Community and Real-World Projects** ---> Making the complex, simple.
+**Empowering Data Professionals Through Community and Real-World Projects** ---> Making the complex, simple.
 
 At TechLeo, we are passionate about data and its potential to transform industries and solve real-world problems. We believe that everyone, regardless of their background or experience level, can benefit from learning about data tools and their applications.
 
@@ -30,7 +30,7 @@ Once your request has been approved, you'll have access to all of our private re
 <br>
 <br>
 
-## **Join Us and Start Your Data Story Today!**
+**Join Us and Start Your Data Story Today!**
 
 We are excited to have you join us on our journey to empower the next generation of data professionals. With TechLeo, you'll gain the skills, knowledge, and confidence to make a difference in the world of data.
 
