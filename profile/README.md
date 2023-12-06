@@ -25,6 +25,8 @@ To become a member, simply follow these steps:
 
 Once your request has been approved, you'll have access to all of our private resources and can start contributing to our community.
 
+
+
 **Join Us and Start Your Data Story Today!**
 
 We are excited to have you join us on our journey to empower the next generation of data professionals. With TechLeo, you'll gain the skills, knowledge, and confidence to make a difference in the world of data.
