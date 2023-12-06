@@ -25,7 +25,7 @@ To become a member, simply follow these steps:
 
 Once your request has been approved, you'll have access to all of our private resources and can start contributing to our community.
 
-
+<br>
 
 **Join Us and Start Your Data Story Today!**
 
