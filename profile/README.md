@@ -40,5 +40,6 @@ Follow us on social media to stay up-to-date on the latest news and updates:
 
 * **Twitter:** [@techleoo](https://twitter.com/TechLeoo)
 * **Instagram:** [@techleo.ng](https://www.instagram.com/techleo.ng/)
+* **LinkedIn:** [TechLeo](https://www.linkedin.com/company/techleo/)
 
 We hope to see you soon!
