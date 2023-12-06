@@ -38,7 +38,7 @@ We are excited to have you join us on our journey to empower the next generation
 
 Follow us on social media to stay up-to-date on the latest news and updates:
 
-* **Twitter:** @techleoo: [https://twitter.com/TechLeoo](https://twitter.com/TechLeoo)
-* **Instagram:** @techleo.ng: [https://www.instagram.com/techleo.ng/](https://www.instagram.com/techleo.ng/)
+* **Twitter:** [@techleoo](https://twitter.com/TechLeoo)
+* **Instagram:** [@techleo.ng](https://www.instagram.com/techleo.ng/)
 
 We hope to see you soon!
