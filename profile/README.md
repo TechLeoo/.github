@@ -1,6 +1,6 @@
-# TechLeo - Making the complex, simple
+# TechLeo
 
-**Empowering Data Professionals Through Community and Real-World Projects**
+**Empowering Data Professionals Through Community and Real-World Projects** ---> Making the complex, simple
 
 At TechLeo, we are passionate about data and its potential to transform industries and solve real-world problems. We believe that everyone, regardless of their background or experience level, can benefit from learning about data tools and their applications.
 
