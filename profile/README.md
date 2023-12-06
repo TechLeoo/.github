@@ -34,6 +34,8 @@ Once your request has been approved, you'll have access to all of our private re
 
 We are excited to have you join us on our journey to empower the next generation of data professionals. With TechLeo, you'll gain the skills, knowledge, and confidence to make a difference in the world of data.
 
+<br>
+
 ## **Connect with Us**
 
 Follow us on social media to stay up-to-date on the latest news and updates:
