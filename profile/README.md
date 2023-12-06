@@ -14,6 +14,8 @@ That's why we've created a vibrant and collaborative community to make this proc
 
 * **Valuable resources:** Access our comprehensive library of tutorials, blog posts, and other resources to learn about data concepts and techniques.
 
+<br>
+
 **Become a Member**
 
 To gain access to our private repositories, projects, and other community resources, you need to become a member of TechLeo. Membership is open to anyone interested in speaking the data language and contributing to our community.
@@ -25,6 +27,7 @@ To become a member, simply follow these steps:
 
 Once your request has been approved, you'll have access to all of our private resources and can start contributing to our community.
 
+<br>
 <br>
 
 **Join Us and Start Your Data Story Today!**
