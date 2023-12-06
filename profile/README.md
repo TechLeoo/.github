@@ -6,7 +6,7 @@ At TechLeo, we are passionate about data and its potential to transform industri
 
 That's why we've created a vibrant and collaborative community to make this process easy. Here, you'll find a supportive environment to learn, grow, and connect with others who share your passion for data.
 
-## **What We Offer**
+## **What we Offer**
 
 * **Real-world projects:** Get hands-on experience with data science by participating in our ongoing projects. You'll work alongside experienced data professionals and tackle real-world challenges.
 
