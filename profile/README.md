@@ -1,4 +1,5 @@
-# TechLeo ---> #### Making the complex, simple.
+# TechLeo 
+---> Making the complex, simple <---
 
 **Empowering Data Professionals Through Community and Real-World Projects**
 
